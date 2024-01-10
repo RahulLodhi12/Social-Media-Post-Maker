@@ -1,0 +1,6 @@
+- Social Media Post Maker is a web scraping project.
+- It basically provide Top Tech-news Headlines on daily basics and also user download the post in JPG format.
+- This is very useful for tech lover or tech influencer, tech youtuber who upload tech news on their social media handles.
+- Website name - [https://www.businesstoday.in/]
+- Python web app based on Flask framework.
+- Technology Used: Python, Flask, HTML, CSS, JavaScript.
